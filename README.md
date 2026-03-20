@@ -1,2 +1,3 @@
-# fast-recommendation-engine-fry6
-AI-powered recommendation system for modern development workflows
+# Fast Recommendation Engine Fry6
+
+A AI-powered recommendation system for modern development workflows.
